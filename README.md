@@ -1,1 +1,1 @@
-edit readme again to use git reset --soft
+1
